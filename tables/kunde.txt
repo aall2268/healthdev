@@ -1,0 +1,16 @@
+<?php
+/*Klasse diagramm */
+class kunde {
+  public $kundePk;
+  public $name;
+  public $vorname;
+  public $geburtsdatum;
+  public $versicherung;
+  public $versicherungsnummer;
+  public $email;
+  public $updatedAt;
+  public $updatedBy;
+  public $createdAt;
+  public $createdBy;
+}
+?>
